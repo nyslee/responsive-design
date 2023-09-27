@@ -1,1 +1,1 @@
-# responsive-design
+# Responsive Grid
